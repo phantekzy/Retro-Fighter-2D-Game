@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+canvas {
+  display: block;
+}
+
+.hud {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  z-index: 10;
+}
+
+.health-bar-container {
+  width: 300px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+.health-bar {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right, #ff4d4d, #ff1a1a);
+  transition: width 0.3s ease;
+}

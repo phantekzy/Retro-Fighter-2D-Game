@@ -26,11 +26,6 @@ fighting game/
 ├── game.html # Game page structure (HTML)
 └── README.md # This documentation
 
-yaml
-Copier
-Modifier
-
----
 
 ## 🚀 Getting Started
 

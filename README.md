@@ -15,18 +15,6 @@ Retro Fighter is a simple, browser-based 2D fighting game built with **HTML5**, 
 
 ---
 
-## 📁 Folder Structure
-
-fighting game/
-│
-├── assets/ # Game images, sprites, or background assets
-├── javascript/
-│ ├── game.js # Main game loop, input handling, rendering
-│ └── utils.js # Helper functions (collision detection, timer, winner logic)
-├── game.html # Game page structure (HTML)
-└── README.md # This documentation
-
-
 ## 🚀 Getting Started
 
 ### Requirements

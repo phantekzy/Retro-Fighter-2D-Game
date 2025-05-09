@@ -89,8 +89,6 @@ Score system
 
 Mobile support
 
-Sound and background music
-
 🤝 Contribution
 Pull requests are welcome! If you find bugs or want to improve the game, feel free to:
 
